@@ -1,0 +1,79 @@
+Project Title
+
+EXCEL SUPERSTORE PERFORMANCE ANALYSIS FOR THE YEAR 2021
+
+Project Summary
+
+The dataset tells a compelling story about how different factors influence sales performance. It reveals trends in product demand across regions and showcases the effectiveness of various sales representatives in driving revenue. The data highlights the impact of discounts on sales, demonstrating whether price reductions lead to higher sales volume or erode profitability. Additionally, it provides insights into customer behavior, such as preferences for specific payment methods and product categories. By examining sales trends over time, the dataset helps identify peak sales periods, regional sales strengths, and potential areas for improvement. The combination of these insights supports strategic decision-making aimed at optimizing revenue and enhancing overall business performance.
+
+Key Skills
+
+Data Analysis: Extracting meaningful insights from sales, payment, and product performance data.
+Business Intelligence: Designing interactive dashboards for real-time tracking and strategic decision-making.
+Customer Behavior Analysis: Understanding customer preferences and ratings to inform marketing strategies.
+Performance Benchmarking: Identifying top-performing regions and product lines for targeted interventions.
+Methodology
+
+Data Collection: Compiling sales data from multiple sources, including regions and product categories.
+Data Visualization: Creating an intuitive Excel dashboard to present key metrics and trends.
+Trend Analysis: Evaluating patterns in monthly sales, customer , and regional performance.
+Performance Benchmarking: Comparing region and product performance to identify areas of strength and improvement.
+Observation
+
+Sales Rep
+
+1. Alice had a moderately low sale from January to October, she had her highest sales in November. She sold electronics, furniture with her highest being in electronics. She sold mainly to the east. She had a total sales amount of $965,541.77.
+
+2. Bob had moderately high and low sales with his highest sales in August, he had a total sale of $1,080,990.63.
+
+3. Charlie had relatively low sales for the year ,although he had high sales in January, April and September. His total sales for the year is $860,811.48. He performed the least for the year.
+
+4. David had the best sales for the year especially in October. He had a total sale of $1,141,737.36. He sold mainly to the South.
+
+5. Eve had  a total sales amount of $970,183.99, her sales report had some highs and lows. She sold mainly  to the north.
+
+Payment Methods
+
+Bank transfers and cash were widely used but most customers used credit cards.
+
+Sales By Region
+
+1. The East bought the most products in January, March and November. They bought products worth $1,259,792.
+
+2. The North bought more furniture than other products. They bought products worth $1,369,612.51.
+
+3. The South bought the least products worth $1,154,250.26 They bought more food than other products, returning customers bought more in the south.
+
+4. The west bought more food. There were mainly returning customers. They bought products worth $1,235,608.93.
+
+Product Category
+
+1. Clothing sold the most for the year with total sales of $1,313,474.36. They were mainly sold to the north.They  purchased more by new customers.
+
+2. Electronic had a total sale of $1,243,499.64. They were purchased more by new customers.
+
+3. Food had a total sale of $1,201,773.54, they brought in the least sales.
+
+4. Furniture had high sales in January and June, total sales for the year being $1,260,517.69. Purchased mainly by returning customers.
+
+RECOMMENDATION
+
+Sales Rep
+
+I recommend that the top sales rep David be awarded best sales rep for the year and he should be encouraged to train other sales reps to ensure great sales in the coming year. Charlie should be made to go for more training for his low sales turn out.
+
+Payment Method
+
+I recommend the most widely used mode of payment credit card should be encouraged as it brings about more revenue.
+
+Sales By Region
+
+I recommend that the measures taken in the north to ensure great sales should be enacted in the south with low sales and that the sales rep for the north responsible for the  sales be taken to the south to ensure that the measures are properly enacted in the coming year.
+
+Product Category
+
+I recommend that clothing which sold very well for the year be looked into and ensure it doesn't deplete and always in stock. Food which had low sales be looked into, to ensure that the reason they don't sell is spoilage.
+
+CONCLUSION
+
+Sales performance shows that a few top sales reps are driving most of the revenue. Over time, sales peaked early in the year but dipped before picking up again. Clothing, furniture, and electronics are the best-selling product categories. The northern region leads in sales, but other regions are not far behind. Customers prefer credit cards and bank transfers over cash. Returning customers slightly outspend new ones, indicating good retention. Discounts between 20-30% seem to generate the highest sales, showing that strategic discounting works. Overall, focusing on top products, optimizing regional strategies, and leveraging targeted discounts could boost revenue further.
